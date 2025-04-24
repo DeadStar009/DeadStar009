@@ -27,8 +27,8 @@
   <a href="https://github.com/DeadStar009/SoulMesh">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeadStar009&repo=SoulMesh&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/DeadStar009/SoulSoul">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeadStar009&repo=SoulSoul&theme=radical&show_owner=true" />
+  <a href="https://github.com/DeadStar009/Cloud-Healthcare-Monitoring-System.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeadStar009&repo=Cloud-Healthcare-Monitoring-System&theme=radical&show_owner=true" />
   </a>
   <a href="https://github.com/DeadStar009/Vyaapar.AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeadStar009&repo=Vyaapar.AI&theme=radical&show_owner=true" />
