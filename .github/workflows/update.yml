@@ -13,9 +13,8 @@ jobs:
       
       - name: Update activity
         uses: jamesgeorge007/github-activity-readme@master
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
