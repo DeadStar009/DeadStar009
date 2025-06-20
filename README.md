@@ -13,13 +13,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadStar009&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=DeadStar009&theme=radical&hide_border=true"/>
-  </a>
-</p>
+<div align="center">
+<a href="https://git.io/streak-stats" >
+<img src="https://streak-stats.demolab.com?user=DeadStar009&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
+</div>
 
 ## 🚀 Featured Projects
 <div align="center">
