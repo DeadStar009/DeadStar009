@@ -35,6 +35,11 @@
 
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com/DeadStar009nx/receive-repo/pull/3) in [DeadStar009nx/receive-repo](https://github.com/DeadStar009nx/receive-repo)
+2. 🎉 Merged PR [#1](https://github.com/DeadStar009/receive-repo/pull/1) in [DeadStar009/receive-repo](https://github.com/DeadStar009/receive-repo)
+3. 💪 Opened PR [#1](https://github.com/DeadStar009/receive-repo/pull/1) in [DeadStar009/receive-repo](https://github.com/DeadStar009/receive-repo)
+4. ❌ Closed PR [#2](https://github.com/DeadStar009nx/receive-repo/pull/2) in [DeadStar009nx/receive-repo](https://github.com/DeadStar009nx/receive-repo)
+5. ❌ Reopened PR [#2](https://github.com/DeadStar009nx/receive-repo/pull/2) in [DeadStar009nx/receive-repo](https://github.com/DeadStar009nx/receive-repo)
 <!--END_SECTION:activity-->
 <!-- No worries -->
 <p align="center">
