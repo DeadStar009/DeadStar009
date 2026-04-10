@@ -34,6 +34,9 @@
 </div>
 
 
+## 🔥 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <!-- No worries -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeadStar009&color=blueviolet" alt="Profile Views"/>
