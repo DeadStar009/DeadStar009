@@ -36,6 +36,8 @@
 
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/MDevtech13/CLI-Code/pull/1) in [MDevtech13/CLI-Code](https://github.com/MDevtech13/CLI-Code)
+2. 💪 Opened PR [#1](https://github.com/MDevtech13/CLI-Code/pull/1) in [MDevtech13/CLI-Code](https://github.com/MDevtech13/CLI-Code)
 <!--END_SECTION:activity-->
 <!-- No worries -->
 <p align="center">
