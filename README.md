@@ -28,17 +28,12 @@
 <br/>
 
 
-
 ### 🏆 Certifications
 
 <p align="left">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D4185BFFC564C307BFF7D3E1189B0327AEBF7C5EF76EB6DF8120C91BEAA90FE6">
-    <img src="https://img.shields.io/badge/🏅_OCI_2025_Generative_AI_Professional-EDE9FE?style=for-the-badge&logo=oracle&logoColor=5B21B6&labelColor=F5F3FF"/>
-  </a>
-
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C0AD364DCA356A7D34AAC2C92F7190BAEE92C0105D5AAC17C5B6CCE73A26736A">
-    <img src="https://img.shields.io/badge/🏅_OCI_2025_AI_Foundations_Associate-EDE9FE?style=for-the-badge&logo=oracle&logoColor=5B21B6&labelColor=F5F3FF"/>
-  </a>
+<a href="https://www.credly.com/badges/a7d1a59b-949f-43f0-8eff-8cac6b19a5aa/linked_in_profile"><img src="./assets/awsSolutionsArch.png" height="120" alt="AWS SAA"></a>&nbsp;
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D4185BFFC564C307BFF7D3E1189B0327AEBF7C5EF76EB6DF8120C91BEAA90FE6"><img src="./assets/professional.png" height="120" alt="OCI GenAI Professional"></a>&nbsp;
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C0AD364DCA356A7D34AAC2C92F7190BAEE92C0105D5AAC17C5B6CCE73A26736A"><img src="./assets/foundations.png" height="120" alt="OCI AI Foundations"></a>
 </p>
 
 ### 🚀 Projects
