@@ -12,8 +12,6 @@
 
 
 
----
-
 ## 🚀 Projects
 
 <p align="left">
@@ -30,7 +28,7 @@
   </a>
 </p>
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -45,7 +43,6 @@
   <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
 </p>
 
----
 
 ## 📊 Activity Graph
 
@@ -55,7 +52,6 @@
   </a>
 </p>
 
----
 
 ## 🏆 Certifications
 
@@ -65,7 +61,7 @@
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C0AD364DCA356A7D34AAC2C92F7190BAEE92C0105D5AAC17C5B6CCE73A26736A"><img src="./assets/foundations.png" height="120" alt="OCI AI Foundations"></a>
 </p>
 
----
+
 
 ## 🔥 Recent Activity
 
@@ -74,7 +70,6 @@
 2. 💪 Opened PR [#1](https://github.com/MDevtech13/CLI-Code/pull/1) in [MDevtech13/CLI-Code](https://github.com/MDevtech13/CLI-Code)
 <!--END_SECTION:activity-->
 
----
 
 ## 📈 GitHub Streak
 
@@ -84,7 +79,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-singh-9510a7285/">
