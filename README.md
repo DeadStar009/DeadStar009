@@ -5,7 +5,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;AWS+SAA+%7C+OCI+GenAI+Professional;3x+National+Hackathon+Winner;Building+Intelligent+Systems" />
 </p>
-
+<p align="center">
+  <a href="https://harsh-singh.dev">
+    <img src="https://img.shields.io/badge/🚀_Portfolio-FF4B4B?style=for-the-badge" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/harsh-singh-9510a7285/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 <p align="center">
   Always learning, building, and experimenting with AI.
 </p>
@@ -80,10 +88,10 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/harsh-singh-9510a7285/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 <!-- Social badges section -->
