@@ -27,8 +27,8 @@
     <img src="https://img.shields.io/badge/🌌_SoulMesh-FDE2E4?style=for-the-badge&logo=github&logoColor=7F1D1D&labelColor=FFF1F2"/>
   </a>
 
-  <a href="https://github.com/DeadStar009/Cloud-Healthcare-Monitoring-System">
-    <img src="https://img.shields.io/badge/☁️_Cloud--Healthcare--Monitoring--System-D1FAE5?style=for-the-badge&logo=github&logoColor=065F46&labelColor=ECFDF5"/>
+  <a href="https://github.com/DeadStar009/Finitrix">
+    <img src="https://img.shields.io/badge/💲_FINITRIX-D1FAE5?style=for-the-badge&logo=github&logoColor=065F46&labelColor=ECFDF5"/>
   </a>
 
   <a href="https://github.com/DeadStar009/Vyaapar.AI">
