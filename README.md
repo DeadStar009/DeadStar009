@@ -20,7 +20,7 @@
 
 
 
-## 🚀 Projects
+## 🚀 Top Projects
 
 <p align="left">
   <a href="https://github.com/DeadStar009/SoulMesh">
